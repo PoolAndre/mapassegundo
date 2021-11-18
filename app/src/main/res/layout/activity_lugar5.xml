@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00FF00	"
+    tools:context=".Lugar5">
+
+
+    tools:context=".PrimerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="51dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="353dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:scaleType="centerCrop"
+
+                    android:text="" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="52dp"
+                        android:text="" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="96dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="98dp"
+                        android:text="5. Humedal de Huasao: Groot y el Señor de los Anillos "
+                        android:textSize="24dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="195dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="165dp"
+                        android:src="@drawable/lugar5" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="363dp"
+                    android:layout_height="285dp"
+                    android:text="A pocos kilómetros del Cusco hay un parque temático donde se diseñaron en madera los personajes de ‘Guardianes de la Galaxia’ y ‘El señor de los anillos’. Los humedales de Huasao es un ambiente natural donde uno puede estar alejado de la ciudad y disfrutar de la naturaleza.
+
+Este atractivo se encuentra en el distrito de Oropesa. A poca distancia de allí, existe un parque jurásico ideal para visitar con los más pequeños. También se puede disfrutar del famoso ‘Pan chuta’ y del ‘Lechón al horno’.
+
+¿Cómo llegar? – Desde la ciudad del Cusco se abordan los buses en dirección a Oropesa en la avenida De la Cultura. El viaje toma 30 minutos aproximadamente.
+
+¿Cuánto cuesta? – El ingreso al Humedal de Huasao es 1.50 soles (0.5 dólares) adulto y 1 sol (0.3 dólares) niños." />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/mapamoderna1"
+                        android:layout_width="348dp"
+                        android:layout_height="wrap_content"
+                        android:text="Toast (latitud , longitud) " />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:text="Atras" />
+</FrameLayout>

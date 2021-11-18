@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00FF00	"
+    tools:context=".moderna5">
+
+
+    tools:context=".PrimerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="48dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="353dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:scaleType="centerCrop"
+
+                    android:text="" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="33dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="5) Machu Picchu, Perú"
+                        android:textSize="24dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="163dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="148dp"
+                        android:src="@drawable/maravilla5" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="match_parent"
+                    android:layout_height="407dp"
+                    android:text="Ubicada en el corazón de los Andes peruanos, la sagrada ciudadela inca construida alrededor de 1450 y descubierta en 1911, esconde aún enigmas y misterios sobre su real propósito continuando ocultos hasta el día de hoy y que despiertan el interés tanto de visitantes como arqueólogos de todo el mundo.
+
+
+
+Debido a su estratégica ubicación en la cima de una alta montaña, existen diversas teorías sobre lo que pudo significar para los incas. Unas sostienen que fue construido como un gran mausoleo para el inca Pachacútec, mientras que otras afirman que fue un importante centro administrativo y agrícola cuyas zonas de cultivo sirvieron para el sustento de sus habitantes. Sin embargo, también se considera que fue utilizado como un necesario nexo entre los Andes y la Amazonía peruana o como una residencia de descanso para el gobernador inca.
+
+
+
+Lo cierto es que Machu Picchu conforma uno de los más grandes símbolos detrás de lo que fue la impresionante arquitectura e ingeniería del Imperio Inca. Si bien su origen aún es objeto de estudio, el valor y trascendencia que representó en su época, así como su imponente diseño, le han valido para ser considerada una de las siete maravillas del mundo moderno.
+
+" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/mapamoderna1"
+                        android:layout_width="348dp"
+                        android:layout_height="wrap_content"
+                        android:text="Toast (latitud , longitud) " />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:text="Atras" />
+</FrameLayout>

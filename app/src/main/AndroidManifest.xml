@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mapassegundo">
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the "MyLocation" functionality.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Mapassegundo">
+        <activity
+            android:name=".Grafico"
+            android:exported="false" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name=".RestaurantesMaps"
+            android:exported="false"
+            android:label="@string/title_activity_restaurantes_maps" />
+        <activity
+            android:name=".AgenciasMaps"
+            android:exported="false"
+            android:label="@string/title_activity_agencias_maps" />
+        <activity
+            android:name=".Lugar7Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar7_maps" />
+        <activity
+            android:name=".Lugar6Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar6_maps" />
+        <activity
+            android:name=".Lugar5Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar5_maps" />
+        <activity
+            android:name=".Lugar4Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar4_maps" />
+        <activity
+            android:name=".Lugar3Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar3_maps" />
+        <activity
+            android:name=".Lugar2Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar2_maps" />
+        <activity
+            android:name=".Lugar1Maps"
+            android:exported="false"
+            android:label="@string/title_activity_lugar1_maps" />
+        <activity
+            android:name=".Antigua7Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua7_maps" />
+        <activity
+            android:name=".Antigua6Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua6_maps" />
+        <activity
+            android:name=".Antigua5Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua5_maps" />
+        <activity
+            android:name=".Antigua4Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua4_maps" />
+        <activity
+            android:name=".Antigua3Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua3_maps" />
+        <activity
+            android:name=".Antigua2Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua2_maps" />
+        <activity
+            android:name=".Antigua1Maps"
+            android:exported="false"
+            android:label="@string/title_activity_antigua1_maps" />
+        <activity
+            android:name=".Moderna7Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna7_maps" />
+        <activity
+            android:name=".Moderna6Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna6_maps" />
+        <activity
+            android:name=".Moderna5Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna5_maps" />
+        <activity
+            android:name=".Moderna4Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna4_maps" />
+        <activity
+            android:name=".Moderna3Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna3_maps" />
+        <activity
+            android:name=".Moderna2Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna2_maps" />
+        <activity
+            android:name=".Moderna1Maps"
+            android:exported="false"
+            android:label="@string/title_activity_moderna1_maps" />
+        <activity
+            android:name=".Lugar7"
+            android:exported="false" />
+        <activity
+            android:name=".Lugar6"
+            android:exported="false" />
+        <activity
+            android:name=".Lugar5"
+            android:exported="false" />
+        <activity
+            android:name=".Lugar4"
+            android:exported="false" />
+        <activity
+            android:name=".Lugar3"
+            android:exported="false" />
+        <activity
+            android:name=".Lugar2"
+            android:exported="false" />
+        <activity
+            android:name=".Lugar1"
+            android:exported="false" />
+        <activity
+            android:name=".Principal"
+            android:exported="false" />
+        <activity
+            android:name=".antigua7"
+            android:exported="false" />
+        <activity
+            android:name=".antigua6"
+            android:exported="false" />
+        <activity
+            android:name=".antigua5"
+            android:exported="false" />
+        <activity
+            android:name=".antigua4"
+            android:exported="false" />
+        <activity
+            android:name=".antigua3"
+            android:exported="false" />
+        <activity
+            android:name=".antigua2"
+            android:exported="false" />
+        <activity
+            android:name=".antigua1"
+            android:exported="false" />
+        <activity
+            android:name=".moderna7"
+            android:exported="false" />
+        <activity
+            android:name=".moderna6"
+            android:exported="false" />
+        <activity
+            android:name=".moderna5"
+            android:exported="false" />
+        <activity
+            android:name=".moderna4"
+            android:exported="false" />
+        <activity
+            android:name=".moderna3"
+            android:exported="false" />
+        <activity
+            android:name=".moderna2"
+            android:exported="false" />
+        <activity
+            android:name=".moderna1"
+            android:exported="false" />
+        <activity
+            android:name=".Modernos"
+            android:exported="false" />
+        <activity
+            android:name=".Antiguos"
+            android:exported="false" />
+        <activity
+            android:name=".Lugares"
+            android:exported="false" />
+        <activity
+            android:name=".MapsActivityubicacion"
+            android:exported="true"
+            android:label="@string/title_activity_maps_activityubicacion" />
+        <activity
+            android:name=".MapsActivityTipos"
+            android:exported="true"
+            android:label="@string/title_activity_maps_tipos" />
+        <activity
+            android:name=".MapsActivity1"
+            android:exported="true"
+            android:label="@string/title_activity_maps1" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Splashtres"
+            android:exported="false" />
+        <activity
+            android:name=".Splashdos"
+            android:exported="false" />
+        <activity
+            android:name=".Splashuno"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

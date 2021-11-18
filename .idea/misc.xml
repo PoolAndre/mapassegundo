@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua1.xml" value="0.176" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua1_maps.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua2.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua3.xml" value="0.2" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua4.xml" value="0.2" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua4_maps.xml" value="0.10511651469098278" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua5.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua6.xml" value="0.11144883485309018" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antigua7.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_antiguos.xml" value="0.176" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_grafico.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar1.xml" value="0.176" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar2.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar2_maps.xml" value="0.10511651469098278" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar3.xml" value="0.176" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar4.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar5.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar6.xml" value="0.20244565217391305" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar6_maps.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugar7.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_lugares.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_maps1.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_maps_activityubicacion.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_maps_tipos.xml" value="0.15942028985507245" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna1.xml" value="0.264" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna1_maps.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna2.xml" value="0.176" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna2_maps.xml" value="0.10511651469098278" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna3.xml" value="0.2" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna4.xml" value="0.16799999999999998" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna5.xml" value="0.2" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna6.xml" value="0.11144883485309018" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_moderna7.xml" value="0.16" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_modernos.xml" value="0.2" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_principal.xml" value="0.20199275362318841" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_splashdos.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_splashtres.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Pool Andre/AndroidStudioProjects/mapassegundo/mapassegundo/app/src/main/res/layout/activity_splashuno.xml" value="0.15307971014492755" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/mapassegundo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/mapassegundo/app/src/main/res/layout/activity_maps1.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/mapassegundo/app/src/main/res/layout/activity_maps_activityubicacion.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Wilson/AndroidStudioProjects/mapassegundo/app/src/main/res/layout/activity_maps_tipos.xml" value="0.25052083333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

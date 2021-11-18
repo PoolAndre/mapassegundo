@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C0C0C0	"
+    tools:context=".Lugar2">
+
+
+    tools:context=".PrimerFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="51dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+
+        <LinearLayout
+            android:layout_width="353dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:scaleType="centerCrop"
+
+                    android:text="" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="34dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="52dp"
+                        android:text="" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="33dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_width="match_parent"
+                        android:layout_height="98dp"
+                        android:text="2. La Montaña de los 7 Colores de Palcoyo "
+                        android:textSize="24dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="195dp"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imageView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="165dp"
+                        android:src="@drawable/lugar2" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/textView7"
+                    android:layout_width="365dp"
+                    android:layout_height="355dp"
+                    android:text="La Montaña de los 7 Colores de Palccoyo (4,900 m.s.n.m.) es una cumbre teñida de varios colores de forma muy parecida al Vinicunca. Se ubica a poca distancia del nevado Ausangate. Es uno de los nuevos atractivos de la cordillera del Vilcanota.
+
+En Palcoyo, además, se puede apreciar un bosque de piedras formado de manera natural. Allí abundan las llamas, alpacas, vizcachas, cóndores y otros animales. A pesar de su belleza, aún no son muchos los turistas que se animan a visitarlo.
+
+¿Cómo llegar? – Desde Cusco, se llega con un viaje en bus de 3 horas hasta el pueblo de Checacupe. Desde allí empieza una caminata de solo 1 hora.
+
+¿Cuánto cuesta? – Los tours tienen un precio aproximado de 60 dólares. También es posible llegar allí y pagar un boleto de ingreso (10 soles extranjeros y 5 soles peruanos).
+
+" />
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <Button
+                        android:id="@+id/mapamoderna1"
+                        android:layout_width="348dp"
+                        android:layout_height="wrap_content"
+                        android:text="Toast (latitud , longitud) " />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"></LinearLayout>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:text="Atras" />
+</FrameLayout>

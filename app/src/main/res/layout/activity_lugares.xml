@@ -1,0 +1,95 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8BC34A"
+    android:orientation="vertical"
+    tools:context=".Lugares">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:text="Lugares Turísticos Cusco"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="El Valle Rojo de Pitumarca - Cusco"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="La Montaña de los 7 Colores de Palcoyo - Cusco "
+        android:layout_margin="10dp"/>
+
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tres Cruces de Oro - Cusco "
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/btn4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Montaña Putucusi - Cusco"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/btn5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Humedal de Huasao - Cusco"
+        android:layout_margin="10dp"/>
+
+    <Button
+        android:id="@+id/btn6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Baños termo-medicinales de Lares - Cusco"
+        android:layout_margin="10dp"/>
+    <Button
+        android:id="@+id/btn7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ELaguna Humantay - Cusco"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="30dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"/>
+
+    <Button
+        android:id="@+id/btn9"
+        android:layout_width="397dp"
+        android:layout_height="56dp"
+        android:layout_margin="10dp"
+        android:text="UBICACIÓN - Maravillas Antiguas" />
+
+    <Button
+        android:id="@+id/btnAtras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ATRAS"
+        android:alpha="0.75"
+        android:backgroundTint="#66FF0000"/>
+</LinearLayout>
